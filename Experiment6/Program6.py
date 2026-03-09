@@ -1,5 +1,5 @@
 """
-Aim: Write a program to demonstrate tuple & related functions in python.
+Aim: To write a Python program to implement a simple phone book using dictionary and demonstrate dictionary operations.
 """
 
 
