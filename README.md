@@ -26,6 +26,17 @@ The programs demonstrate **basic Python concepts** such as data types, operators
 ### 🔹 Experiment 6
 **Program to Demonstrate Dictionary and Related Functions**
 
+### 🔹 Experiment 7
+**Demonstrate use of object-oriented programming concepts**
+
+### 🔹 Experiment 8
+**Implement the ‘re’ module in Python**
+
+### 🔹 Experiment 9
+**A:** **Write a program to implement NumPy and Pandas packages**
+**B:** **Write a program to implement Matplotlib and Pandas libraries in Python**
+
+
 ---
 
 ## 🚀 How to Run the Programs
